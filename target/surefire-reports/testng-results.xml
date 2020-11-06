@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="24198" started-at="2020-11-06T15:41:14 IST" finished-at="2020-11-06T15:41:38 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="24198" started-at="2020-11-06T15:41:14 IST" finished-at="2020-11-06T15:41:38 IST">
+      <class name="com.newHRM.basics.FbLogin">
+        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.newHRM.basics.FbLogin@1faf8f2]" name="setUpChrome" is-config="true" duration-ms="21956" started-at="2020-11-06T15:41:14 IST" finished-at="2020-11-06T15:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.newHRM.basics.FbLogin@1faf8f2]" name="verifyTitle" duration-ms="26" started-at="2020-11-06T15:41:36 IST" finished-at="2020-11-06T15:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="verifyUrl()[pri:0, instance:com.newHRM.basics.FbLogin@1faf8f2]" name="verifyUrl" duration-ms="33" started-at="2020-11-06T15:41:36 IST" finished-at="2020-11-06T15:41:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.newHRM.basics.FbLogin@1faf8f2]" name="tearDown" is-config="true" duration-ms="1974" started-at="2020-11-06T15:41:36 IST" finished-at="2020-11-06T15:41:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.newHRM.basics.FbLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
